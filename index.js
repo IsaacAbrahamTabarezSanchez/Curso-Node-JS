@@ -4,7 +4,7 @@ const port = 8000;
 
 const requestListener = function(req, res){
     res.setHeader("Contet-type", "text/html");
-    res.end('<html><body><h1>Modificado desde mi pc Eduardo, Isaac <h1><body><html>')
+    res.end('<html><body><h1>Modificado desde mi pc Eduardo, Isaac, Gordoy<h1><body><html>')
     
 };
 
